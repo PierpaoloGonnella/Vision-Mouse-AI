@@ -1,0 +1,3 @@
+opencv-python-headless  # Without specifying a version, pip will install the latest version
+mediapipe
+pyautogui
