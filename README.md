@@ -1,5 +1,7 @@
 ### Vision-Mouse-AI
 
+[![Tests](https://github.com/PierpaoloGonnella/Vision-Mouse-AI/actions/workflows/tests.yml/badge.svg)](https://github.com/PierpaoloGonnella/Vision-Mouse-AI/actions/workflows/tests.yml)
+
 This script enables control of the computer mouse using hand gestures detected through a webcam. It utilizes the following technologies:
 
 - **OpenCV** (`cv2`): For capturing video from the webcam and processing frames.
